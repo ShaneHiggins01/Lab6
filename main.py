@@ -1,3 +1,4 @@
-print("Hello World")
-print("Goodbye")
-print("Deez Balls")
+x = 5
+y = 3
+print(x + y)
+
